@@ -1,4 +1,3 @@
-
 game_hash = {
   :home => {
     :team_name => "Brooklyn Nets",
@@ -103,4 +102,5 @@ game_hash = {
       ]
   }
 }
+
 game_hash 
