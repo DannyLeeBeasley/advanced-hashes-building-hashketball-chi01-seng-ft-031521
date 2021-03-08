@@ -103,4 +103,4 @@ def game_hash
       ]
   }
 }
-teh_game_hash 
+the_game_hash 
